@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    button {
+        width: 200px;
+        height: 200px;
+        border: none;
+        border-radius: 100px;
+        background-color: orange;
+        cursor: pointer;
+        color: white;
+        font-size: 100px;
+    }
+}
+
