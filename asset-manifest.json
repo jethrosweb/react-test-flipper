@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-test-flipper/static/css/main.ba6b945e.css",
+    "main.js": "/react-test-flipper/static/js/main.e565a58e.js",
+    "index.html": "/react-test-flipper/index.html",
+    "main.ba6b945e.css.map": "/react-test-flipper/static/css/main.ba6b945e.css.map",
+    "main.e565a58e.js.map": "/react-test-flipper/static/js/main.e565a58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba6b945e.css",
+    "static/js/main.e565a58e.js"
+  ]
+}
